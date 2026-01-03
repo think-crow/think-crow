@@ -1,5 +1,6 @@
 ---
 title: node实现鼠标点击事件
+slug: 2004
 date: 2024-11-11T21:04:07+08:00
 tags: 
 series: 
@@ -120,7 +121,7 @@ fetchWithPuppeteer().catch((err) => console.error('Error in fetchWithPuppeteer:'
 
 ```
 
-（经测试同时开20个浏览器运行最佳）每秒能增加一百多的访问量
+（经测试同时开20个浏览器运行最佳）每秒能增加一百多的访问量。结果虽然是好的，但会降低大量cpu资源。
 
 
 

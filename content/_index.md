@@ -9,7 +9,7 @@ This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a min
 
 All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). -->
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/think-crow)
 
 本博客搭建的目的，为更多想搭建自己博客的人，提供一些力所能及的帮助，另看机缘巧合下能否成为自己的副业。五年前有了搭建自己博客的想法，五年后才慢慢步入正轨，自己耽误了太多时间，作为过来人的一员，希望你们这些珍贵的时间，能用在更多地方。  
 

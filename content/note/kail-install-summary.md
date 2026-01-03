@@ -1,9 +1,11 @@
 ---
 title: kail安装报错 解决办法
+slug: 2002
 date: 2024-11-01T15:01:24+08:00
 tags: 
 series: 
 featured: false
+draft: true
 ---
 
 
